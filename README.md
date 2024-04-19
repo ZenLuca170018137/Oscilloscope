@@ -1,4 +1,4 @@
-![image](https://github.com/ZenLuca170018137/Oscilloscope/assets/72395371/fa0f2b47-61b6-4991-95e7-e9cdcaf87297)# Oscilloscope
+# Oscilloscope
 
 Repository with the code for the "Raspberry Pi Pico Oscilloscope with LCD Display" project.
 
