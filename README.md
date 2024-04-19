@@ -2,7 +2,7 @@
 
 Repository with the code for the "Raspberry Pi Pico Oscilloscope with LCD Display" project.
 
-Full report on the project can be found here:
+Full report on the project can be found here: [link (.docx)](https://dmail-my.sharepoint.com/:w:/g/personal/lzen_dundee_ac_uk/EScOs1CXhkdEsjRd1ki7WXYBNNK9LJWMDCIghs161QVspw?e=YRQ0bZ)
 
 Poster (power point version): [link](https://dmail-my.sharepoint.com/:p:/g/personal/lzen_dundee_ac_uk/ERVFb4FsZpJIuvQxjtrNSooBtbVvnVLa61sg91zAUsjHaA?e=YXM24V)
 
