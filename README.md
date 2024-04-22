@@ -8,4 +8,4 @@ Poster: [link (.pptx)](https://dmail-my.sharepoint.com/:p:/g/personal/lzen_dunde
 
 Appendices: [link](https://dmail-my.sharepoint.com/:f:/g/personal/lzen_dundee_ac_uk/ErNiLFzqMfJJjTZie7P3huoB6sMTqttIKlPMVGPolThNtA?e=zuKJJd)
 
-User manual: [link](https://dmail-my.sharepoint.com/:w:/g/personal/lzen_dundee_ac_uk/EfWBd6ZOQOhNuHrw_mh7l_cBMB3nF4pheLemtBbAu4NIWA?e=3fQAuG)
+User manual: [link](https://dmail-my.sharepoint.com/:b:/g/personal/lzen_dundee_ac_uk/ESKqhO9BB91LuPZUihsZhmYB4vf8MN8ZRscV8ZdXmq2M-A?e=ziF1kT)
