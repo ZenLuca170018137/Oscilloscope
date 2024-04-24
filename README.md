@@ -25,15 +25,16 @@ For all the physical connections refer to the user manual.
 
 # Equipment needed
 
-Raspberry Pi Pico [buy here](https://www.raspberrypi.com/products/raspberry-pi-pico/)
-Waveshare 2 inches display [buy here](https://www.waveshare.com/pico-lcd-2.htm)
-2 x 10K potentiometer [buy here](https://coolcomponents.co.uk/products/rotary-potentiometer-10k-ohm-linear)
-Behringer 112 Dual VCO [buy here](https://www.amazon.com/Behringer-Synthesizer-112-DUAL-VCO/dp/B08KY9G4ZR/ref=sr_1_1?dib=eyJ2IjoiMSJ9.RvTatlnXGCH7nR5mtoU25-BYDbkTJe5lyUvwL1gLQwuMEIY3hClswr5LWv9UbjnxasaBP0db-cM9GkP0VHJYVygnpCqMqbENLlnDjhrxoakbj62McCKoRzNs0wmAP3c_uFw7dSocEDx87Hxyq93I4Lor1Z4D-UXol_0YdP4B5PPVypUlNcezgc6PMoeqv5cl4QMYmWk8LEOfd7rlhBvuCatixeLJAskV3SJko2Zp8AeGieW1fqOTY0R3vucR0Txp0Jzfzg4Nm0ouJmOA3sis8g.posoWZv40vjC4xqllsz55bTBHF32t29-9m4wqyTQzMk&dib_tag=se&keywords=Behringer+112+DUAL+VCO&qid=1713991923&sr=8-1)
-Behringer Eurorack Rack [buy here](https://www.amazon.com/Behringer-EURORACK-RACK/dp/B08B7F11B6/ref=sr_1_1?dib=eyJ2IjoiMSJ9.ql9fUazHEJ18rE_Jw8wS5czLqJ1WBP0Af4Z71S8R6VWREKsDFpldLvqcbaVrRHibP_DEAo9rjVosPHdTqgbFeAiKrxbZB94734czLOPxX4-A1BkQUVVoTiG3PyIVh73hyHnwFpWhh0lLyeJFs1msfNTsd6V5aiooDmUJz9uk-HwPcZ6GssPVTcbGagFoCqHluXafblUabYCDuPS7K6F0RJCObfSu-GPS973AmbZ1_r07uzQqYai9yxOqCA3mexjZXyaY38rgIIdWnF7c2uNPzeA11oN0atkkbL0h0SVAN0s.oDQHaHslemkcNJ8TfHSKLSy0E27gBQFGL_lQNzqjSnA&dib_tag=se&keywords=Behringer%2BEURORACK%2BRACK&qid=1713991891&sr=8-1&th=1)
-Doepfer A-183-2 Offset/Attenuator [buy here](https://www.elevatorsound.com/product/doepfer-a-182-3-eurorack-offset-attenuator-polarizer-module/)
-Jack to breadboard adapter [buy here](https://thepihut.com/products/vertical-breadboard-friendly-3-5mm-mono-headphone-jack)
-Breadboard [buy here](https://thepihut.com/products/full-sized-breadboard)
-Wires [buy here](https://www.amazon.co.uk/Elegoo-120pcs-Multicolored-Breadboard-arduino-colorful/dp/B01EV70C78)
+Raspberry Pi Pico [buy here](https://www.raspberrypi.com/products/raspberry-pi-pico/)  
+Waveshare 2 inches display [buy here](https://www.waveshare.com/pico-lcd-2.htm)  
+2 x 10K potentiometer [buy here](https://coolcomponents.co.uk/products/rotary-potentiometer-10k-ohm-linear)  
+Behringer 112 Dual VCO [buy here](https://www.amazon.com/Behringer-Synthesizer-112-DUAL-VCO/dp/B08KY9G4ZR/ref=sr_1_1?dib=eyJ2IjoiMSJ9.RvTatlnXGCH7nR5mtoU25-BYDbkTJe5lyUvwL1gLQwuMEIY3hClswr5LWv9UbjnxasaBP0db-cM9GkP0VHJYVygnpCqMqbENLlnDjhrxoakbj62McCKoRzNs0wmAP3c_uFw7dSocEDx87Hxyq93I4Lor1Z4D-UXol_0YdP4B5PPVypUlNcezgc6PMoeqv5cl4QMYmWk8LEOfd7rlhBvuCatixeLJAskV3SJko2Zp8AeGieW1fqOTY0R3vucR0Txp0Jzfzg4Nm0ouJmOA3sis8g.posoWZv40vjC4xqllsz55bTBHF32t29-9m4wqyTQzMk&dib_tag=se&keywords=Behringer+112+DUAL+VCO&qid=1713991923&sr=8-1)  
+Behringer Eurorack Rack [buy here](https://www.amazon.com/Behringer-EURORACK-RACK/dp/B08B7F11B6/ref=sr_1_1?dib=eyJ2IjoiMSJ9.ql9fUazHEJ18rE_Jw8wS5czLqJ1WBP0Af4Z71S8R6VWREKsDFpldLvqcbaVrRHibP_DEAo9rjVosPHdTqgbFeAiKrxbZB94734czLOPxX4-A1BkQUVVoTiG3PyIVh73hyHnwFpWhh0lLyeJFs1msfNTsd6V5aiooDmUJz9uk-HwPcZ6GssPVTcbGagFoCqHluXafblUabYCDuPS7K6F0RJCObfSu-GPS973AmbZ1_r07uzQqYai9yxOqCA3mexjZXyaY38rgIIdWnF7c2uNPzeA11oN0atkkbL0h0SVAN0s.oDQHaHslemkcNJ8TfHSKLSy0E27gBQFGL_lQNzqjSnA&dib_tag=se&keywords=Behringer%2BEURORACK%2BRACK&qid=1713991891&sr=8-1&th=1)  
+Doepfer A-183-2 Offset/Attenuator [buy here](https://www.elevatorsound.com/product/doepfer-a-182-3-eurorack-offset-attenuator-polarizer-module/)  
+Jack to breadboard adapter [buy here](https://thepihut.com/products/vertical-breadboard-friendly-3-5mm-mono-headphone-jack)  
+Breadboard [buy here](https://thepihut.com/products/full-sized-breadboard)  
+Wires [buy here](https://www.amazon.co.uk/Elegoo-120pcs-Multicolored-Breadboard-arduino-colorful/dp/B01EV70C78)  
+
 
 
 
