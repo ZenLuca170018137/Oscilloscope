@@ -19,6 +19,8 @@ Once the VS Code kit is set up and installed, download the repository and open i
 
 Use the newly set environment to compile the C file (main.c) and create the machine language file (A step by step guide on how to do that is present in the user manual)
 
+Import the machine file (main.uf2) into the Raspberry Pi Pico
+
 If any modification to the code are required, once made rebuild the file and re-import it into the Raspberry Pi Pico (follow the user manual)
 
 For all the physical connections refer to the user manual.
